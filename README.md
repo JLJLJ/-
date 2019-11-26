@@ -1,5 +1,9 @@
 代码很丑，但跑的通，字符分离那部分代码是几年前刚开始学的写的，后来放下了，现在回过头看自己也蒙了，有空重写一下。~~祖传代码~~
 # 验证码识别
+## 先看效果
+![Alt](https://raw.githubusercontent.com/JLJLJ/Verification-code-identification/master/data/IMG_20191126_172251.jpg)
+![Alt](https://raw.githubusercontent.com/JLJLJ/Verification-code-identification/master/data/IMG_20191126_172330.jpg)
+![Alt](https://raw.githubusercontent.com/JLJLJ/Verification-code-identification/master/data/IMG_20191126_172413.jpg)
 ## 运行环境
 Anaconda 2019.10(python 3.7)
 tensorflow2.0(别的版本应该都没什么问题，猜的)
