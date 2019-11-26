@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+cmcoins.boc.cn	FALSE	/	FALSE		JSESSIONID	0000OR_PC72iSn0EHA_C-Xyu3vB:1a342nreh
