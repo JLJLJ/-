@@ -1,5 +1,6 @@
-代码很丑，但跑的通，字符分离那部分代码是几年前刚开始学的写的，后来放下了，现在回过头看自己也蒙了，有空重写一下。~~祖传代码~~
 # 验证码识别
+# 100行代码识别验证码
+代码很丑，但跑的通，字符分离那部分代码是几年前刚开始学的写的，后来放下了，现在回过头看自己也蒙了，有空重写一下。~~祖传代码~~
 ## 先看效果
 ![Alt](https://raw.githubusercontent.com/JLJLJ/Verification-code-identification/master/data/IMG_20191126_172251.jpg)
 ![Alt](https://raw.githubusercontent.com/JLJLJ/Verification-code-identification/master/data/IMG_20191126_172330.jpg)
